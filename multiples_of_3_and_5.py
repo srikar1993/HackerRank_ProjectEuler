@@ -9,11 +9,9 @@ for i in range(t):
     n = int(input().strip())
     
     # three = 3
-    three = (n - 1) // 3
-    
+    three = (n - 1) // 3 
     # five = 1
     five = (n - 1) // 5
-    
     # fifteen = 0
     fifteen = (n - 1) // 15
     
